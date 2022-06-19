@@ -14,6 +14,8 @@ pip install paramiko
 py mikrotik-automation.py
 ```
 
+> NOTE: Username in all device is the same `Username = admin`
+
 > Python Version : 3.10
 
 <p align=center><b>:fire: Learn as if you will live forever, live like you will die tomorrow :fire:</p>
