@@ -1,0 +1,9 @@
+device1,192.168.10.10,password1
+device2,192.168.10.20,password2
+device3,192.168.10.30,password3
+device4,192.168.10.40,password4
+device5,192.168.10.50,password5
+device6,192.168.10.60,password6
+device7,192.168.10.70,password7
+device8,192.168.10.80,password8
+device9,192.168.10.90,password9
