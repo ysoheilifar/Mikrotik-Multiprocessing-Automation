@@ -6,6 +6,8 @@ Multithreading enables CPUs to run different parts(threads) of a process concurr
 pip install netmiko
 
 pip install paramiko
+
+pip install colorama
 ```
 3.  Put device name , IP address and password of mikrotik devices in order and line by line in the `devices_list.txt` file
 4.  Put all the commands of your mikrotik router device in order and line by line in the `commands_all_devices` file
