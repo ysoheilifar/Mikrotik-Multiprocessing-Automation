@@ -17,3 +17,4 @@ py mikrotik-automation.py
 > Python Version : 3.10
 
 <p align=center><b>Learn as if you will live forever, live like you will die tomorrow :v:</p>
+  <p align=center><b>Mahatma Gandhi</p>
