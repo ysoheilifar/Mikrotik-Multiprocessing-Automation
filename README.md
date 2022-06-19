@@ -13,6 +13,7 @@ pip install paramiko
 ```python
 py mikrotik-automation.py
 ```
+6. For see result open `log.csv`
 
 **NOTE**: Username in all device is the same `Username = admin`
 
