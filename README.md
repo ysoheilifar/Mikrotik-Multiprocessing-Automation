@@ -11,9 +11,9 @@ pip install colorama
 ```
 3.  Put device name , IP address and password of mikrotik devices in order and line by line in the `devices_list.txt` file
 4.  Put all the commands of your mikrotik router device in order and line by line in the `commands_all_devices` file
-5.  Run `mikrotik-automation.py`
+5.  Run `RouterOS_Version_V2.py`
 ```python
-py mikrotik-automation.py
+py RouterOS_Version_V2.py
 ```
 6. For see result open `log.csv`
 
