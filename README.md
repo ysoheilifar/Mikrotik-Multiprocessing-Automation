@@ -1,5 +1,5 @@
-# Mikrotik Multithreading Automation with Python 
-Multithreading enables CPUs to run different parts(threads) of a process concurrently.
+# Mikrotik Multiprocessing Automation with Python 
+Multiprocessing enables CPUs to run different parts(process) of a process concurrently.
 1. You must first enable ssh on your mikrotik router and access them over the network
 2. Install prerequisites
 ```python
